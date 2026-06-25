@@ -63,3 +63,11 @@ The dashboard provides insights into:
 - Dashboard Design
 - MIS Reporting
 - Business Intelligence
+- 
+- ## 📂 Dataset
+
+[📊 Download Sales Dataset](./https://github.com/Dheeraj-saini03/Excel-Sales-Performance-Dashboard-with-VBA/blob/main/Dataset.xlsx)
+
+## 💻 VBA Code
+
+[📄 Dashboard_Automation.bas](./https://github.com/Dheeraj-saini03/Excel-Sales-Performance-Dashboard-with-VBA/blob/main/Dashboard_Automation.bas)
